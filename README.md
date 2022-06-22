@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code](https://your-solution-url.com)
+- Solution URL: [View Code](https://github.com/siafromspace/expenses-chart.git)
 - Live Site URL: [Live Site](https://siafromspace.github.io/expenses-chart/)
 
 ## My process
