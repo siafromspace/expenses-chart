@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View Code](https://github.com/siafromspace/expenses-chart.git)
-- Live Site URL: [Live Site](https://siafromspace.github.io/expenses-chart/)
+- Live Site URL: [Live Site](http://expenses-chart-247.netlify.app)
 
 ## My process
 
