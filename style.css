@@ -15,7 +15,7 @@
 body {
     background-color: var(--cream);
     font-family: 'DM Sans', sans-serif;
-    height: 120vh;
+    height: 110vh;
     width: 100vw;
     display: flex;
     justify-content: center;
