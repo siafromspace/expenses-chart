@@ -13,8 +13,6 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Code](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://siafromspace.github.io/expenses-chart/)
 
 ## My process
 
@@ -56,6 +54,5 @@ Users should be able to:
 - Frontend Mentor - [@siafromspace](https://www.frontendmentor.io/profile/siafromspace)
 - Twitter - [@frdsharon](https://www.twitter.com/frdsharon)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
