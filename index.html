@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <title>Frontend Mentor | Expenses chart component</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="total-balance">
+        <p>My balance</p>
+        <h2>$921.48</h2>
+      </div>
+      <div class="header-logo">
+        <img src="images/logo.svg" alt="" width="48px" height="48px">
+      </div>
+    </div>
+    <div class="content">
+      <div class="first-content">
+        <h2>Spending - Last 7 days</h2>
+        <div class="bar-chart">
+          <div class="day" data-text="sun">
+            <p></p>
+            <div class="bar"></div>
+            <div class="day-name">sun</div>
+          </div>
+          <div class="day" data-text="mon">
+            <p></p>
+            <div class="bar"></div>
+            <div class="day-name">mon</div>
+          </div>
+          <div class="day" data-text="tue">
+            <p></p>
+            <div class="bar"></div>
+            <div class="day-name">tue</div>
+          </div>
+          <div class="day" data-text="wed">
+            <p></p>
+            <div class="bar"></div>
+            <div class="day-name">wed</div>
+          </div>
+          <div class="day" data-text="thu">
+            <p></p>
+            <div class="bar"></div>
+            <div class="day-name">thu</div>
+          </div>
+          <div class="day" data-text="fri">
+            <p></p>
+            <div class="bar"></div>
+            <div class="day-name">fri</div>
+          </div>
+          <div class="day" data-text="sat">
+            <p></p>
+            <div class="bar"></div>
+            <div class="day-name">sat</div>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div class="second-content">
+        <p>Total this month</p>
+        <div class="month-total">
+          <h1 class="present-month">$478.33</h1>
+          <p>+2.4% <span>from last month</span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <script type="text/javascript" src="data.json"></script>
+  <script type="text/javascript" src="app.js"></script>
+
+</body>
+
+</html>
